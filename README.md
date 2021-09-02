@@ -1,2 +1,2 @@
-# oigufydt
-/m;jlhgfds
+# pac-man
+the source code for pacman on atari
